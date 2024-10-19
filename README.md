@@ -14,6 +14,12 @@ Created a JavaScript progam using Express and Node.js where it can read CSV file
 ### To run program 
 `npm start` to run the program.
 
+<p float="left">
+  <p align="center">
+  <img src="images/starting-server.png" width="600"> 
+  </p>
+</p>
+
 ### Testing
 For testing my endpoints, I used curl commands to see whether the following works: 
 
