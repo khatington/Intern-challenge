@@ -1,6 +1,7 @@
 # Simple CSV Reader and CRUD API with Node.js
 Coding challenge. <br/>
 Getting familiar with working with Node.js, Express, and handling file operations. <br/>
+Fulfilled requirements from 1 to 4. <br/>
 Using VSCode. 
 
 ### About
@@ -20,7 +21,7 @@ Created a JavaScript progam using Express and Node.js where it can read CSV file
   </p>
 </p>
 
-### Testing
+### Testing (curl commands)
 For testing my endpoints, I used curl commands to see whether the following works: 
 
 1.  `curl http://localhost:5000/employees` - accessing employee data.
