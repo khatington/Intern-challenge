@@ -19,7 +19,7 @@ For testing my endpoints, I used curl commands to see whether the following work
 
 1.  `curl http://localhost:5000` - accessing server via port.
 2.  `curl http://localhost:5000/employees` - accessing employee data.
-3.  `curl http://localhost:5000/employees/1` - GET employee details of id 1.
+3.  `curl http://localhost:5000/employees/1` - GET employee details of id 3.
 4.  `curl http://localhost:5000/employees/10` - error handling of GET request.
 
 ### References
