@@ -41,7 +41,7 @@ const csvData = () =>
     });
 };
 
-//calling method csvData
+//calling function csvData
 csvData(); 
 
 //message displaying for server accessed via port 
